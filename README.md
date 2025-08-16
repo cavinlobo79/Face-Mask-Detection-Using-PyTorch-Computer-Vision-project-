@@ -1,2 +1,2 @@
-# Face-Mask-Detection-Using-PyTorch-Computer-Vision-project
+# Face-Mask-Detection-Using-PyTorch-Computer-Vision-Project
 Developed a deep learning model using PyTorch to detect whether individuals in images were wearing face masks. Implemented image preprocessing, augmentation, and dataset preparation for robust model training. Built and trained a Convolutional Neural Network (CNN) for binary image classification, achieving high accuracy on validation data. Utilized OpenCV for image handling and real-time detection, showcasing expertise in computer vision, deep learning, and PyTorch model development.
