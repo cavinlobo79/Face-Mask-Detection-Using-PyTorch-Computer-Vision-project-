@@ -40,10 +40,22 @@ Face-Mask-Detection-Using-PyTorch-Computer-Vision/
 
 │── LICENSE # License file
 
-📊 Results
+# 📊 Results
 
 Training Accuracy: 95%
 
 Validation Accuracy: 93%
 
 Example Output:
+
+# 📂 Dataset
+
+Dataset used: Face Mask Detection Dataset
+
+# 📝 License
+
+This project is licensed under the MIT License.
+
+# 🤝 Contributing
+
+Contributions are welcome! Please fork this repo and submit a pull request.
