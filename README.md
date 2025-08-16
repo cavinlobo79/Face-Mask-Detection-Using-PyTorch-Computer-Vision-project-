@@ -39,3 +39,11 @@ Face-Mask-Detection-Using-PyTorch-Computer-Vision/
 │── README.md # Project description
 
 │── LICENSE # License file
+
+📊 Results
+
+Training Accuracy: 95%
+
+Validation Accuracy: 93%
+
+Example Output:
