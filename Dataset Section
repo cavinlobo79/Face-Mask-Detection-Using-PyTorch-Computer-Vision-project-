@@ -1,0 +1,6 @@
+# 📂 Dataset
+The dataset used for this project can be found here:  
+➡️ [Face Mask Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/cavinlobo/face-mask-detection)
+
+Download the dataset and place it inside the `data/` folder like this:
+
