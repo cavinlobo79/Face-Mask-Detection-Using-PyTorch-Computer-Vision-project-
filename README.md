@@ -1,4 +1,3 @@
-# Face-Mask-Detection-Using-PyTorch-Computer-Vision-Project
 # 🧑‍⚕️ Face Mask Detection using PyTorch Computer Vision
 
 ## 📌 Project Overview
