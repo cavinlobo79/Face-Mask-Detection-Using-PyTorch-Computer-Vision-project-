@@ -16,14 +16,12 @@ It classifies whether a person is **wearing a mask** 😷 or **not wearing a mas
 
 ## 📂 Project Structure
 
-Face-Mask-Detection-Using-PyTorch-Computer-Vision/ 
-│── data/ # Dataset (mask/no-mask)
-│── models/ # Trained weights
-│── notebooks/ # Jupyter Notebooks
-│── src/ # Source code
-│ ├── train.py # Training script
-│ ├── inference.py # Run inference
-│ └── utils.py # Helper functions
-│── requirements.txt # Dependencies
-│── README.md # Project description
-│── LICENSE # License file
+Face-Mask-Detection-Using-PyTorch-Computer-Vision/
+│── data/                  # Dataset or dataset link instructions
+│── models/                # Saved model weights
+│── notebooks/             # Jupyter notebooks
+│── src/                   # Source code (training, preprocessing, utils)
+│── requirements.txt       # Dependencies
+│── README.md              # Project description
+│── LICENSE                # License (MIT recommended)
+│── .gitignore             # Ignore unnecessary files
