@@ -16,7 +16,7 @@ It classifies whether a person is **wearing a mask** 😷 or **not wearing a mas
 
 ## 📂 Project Structure
 
-Face-Mask-Detection-Using-PyTorch-Computer-Vision/
+Face-Mask-Detection-Using-PyTorch-Computer-Vision/ 
 │── data/ # Dataset (mask/no-mask)
 │── models/ # Trained weights
 │── notebooks/ # Jupyter Notebooks
